@@ -22,8 +22,6 @@ The spreadsheet contains all the critical incidents reports filed by youth menta
 • Timeline concerning the start and end date of the investigation
 • Date that the incident occurred.
 
-With that information, we used pandas to filter investigations by facility, filter investigations by year, and filter investigations concerning sexual abuse or conduct by year.
-
-Will Craft led the data analysis, and as a way to begin my internship with APM Reports, he had me fact check his work for this story so that I can warm up my data analysis skills.
+With that information, we used pandas to filter investigations by facility, filter investigations by year, and filter investigations concerning sexual abuse or conduct by year. Analysis can be found [here](https://github.com/dv7jose/Critical-Incidents-Provo/blob/main/Utah_Practice.ipynb).
 
 It's important to note that the final chart in the story has different numbers than the original analysis. Reason being, the leading reporters added notice of agency actions from https://hslic.utah.gov/notices-of-agency-action. That is not reflected in this analysis.
